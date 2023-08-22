@@ -1,5 +1,8 @@
 # Responsive News Website Project
 Welcome to the repository for my responsive news website project! In this project, I have created a dynamic and engaging news website by harnessing the power of HTML, CSS, JavaScript, Figma designs, and the React.js framework. This README will provide you with an overview of the project and guide you through its various components.
+
+![home1](https://github.com/shivak-dev/MarketShop/assets/142004400/f8e9712f-9735-4bdf-8ce9-b1e0603b168b)
+
 ## Project Overview
 In this project, I aimed to develop a modern and user-friendly news website that can adapt seamlessly to different screen sizes, making it accessible to users across various devices, including desktops, tablets, and smartphones. The project incorporates the following key technologies:
 ### HTML: 
